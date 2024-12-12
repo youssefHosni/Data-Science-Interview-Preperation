@@ -76,6 +76,7 @@ A curated list of resources to help you prepare for your next data science inter
 * [SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)
 * [6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)
 * [SQL Cheat Sheet for Interview Preparation](https://programiz.pro/resources/sql-cheat-sheet/)
+* [SQL Interview Questions for Data Analytics](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
 
 ### Programming Questions ### 
 * [Foundations of Data Structures: Essential Concepts for Data Science Coding Interviews [Part 1]](https://medium.com/gitconnected/foundations-of-data-structures-essential-concepts-for-data-science-coding-interviews-part-1-fc4412ecf008?sk=ba672536815cd227875f9cf14b9d385d)
